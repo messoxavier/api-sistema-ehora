@@ -1,0 +1,11 @@
+{
+    "env":{
+        "MYSQL_USER": "root",
+        "MYSQL_PASSWORD": "",
+        "MYSQL_DATABASE": "marcar_consultas",
+        "MYSQL_HOST":"localhost",
+        "MYSQL_PORT": "3306",
+
+        "JWT_KEY": "segredo"
+    }
+}   
