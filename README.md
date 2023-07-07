@@ -6,7 +6,7 @@ Criado e desenvolvido por Adevaldo José, Emerson Xavier e Gustavo Batista, alun
 
 A API deste projeto foi desenvolvida com NodeJS no back-end e banco de dados MySQL, sendo integrada no front-end através do axios.
 
-A ideia da API é levar todas as funcionalidades e integrações necessárias para que o sistema tenha o melhor funciomanento e garante que o usuário consiga navegar entre todas as etapas do sistema.
+A ideia da API é levar todas as funcionalidades e integrações necessárias para que o sistema tenha o melhor funcionamento e garantir que o usuário consiga navegar entre todas as etapas do sistema.
 
 ## Ferramentas utilizadas:
 
